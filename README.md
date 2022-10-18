@@ -16,14 +16,14 @@
      
      Explanation- This command is use to list the images available locally
      
-    ![dockerimages](https://user-images.githubusercontent.com/29401813/196510156-d5486024-ad68-4690-be46-ca7d3c22805c.JPG)
+   
 ![dockerimages](https://user-images.githubusercontent.com/29401813/196510489-e2fcaad4-8be1-4233-b8d3-5b2e17efb2be.JPG)
 
    4. docker run <image-name>
      
      Explanation- This command is use to run the image as a container
-   
-    ![runhello-world](https://user-images.githubusercontent.com/29401813/196509211-316a8174-6a4f-42df-9061-94738cb3d00d.JPG)
+ 
+![runhello-world](https://user-images.githubusercontent.com/29401813/196511064-c0641d88-25ea-4d69-b50c-560bfbf39622.JPG)
 
    5. docker ps
      
@@ -68,3 +68,12 @@
    15. docker exec -it bash
    
      Explanation- This command is use to gain access to a bash shell of a running container
+   
+  
+   
+   
+   # task-2 Run Hello World Docker Image Locally.
+   
+   
+![secondtask2](https://user-images.githubusercontent.com/29401813/196511303-0d89bd11-938f-4c59-9768-7519a655675e.JPG)
+![secondtask1](https://user-images.githubusercontent.com/29401813/196511311-7dde9a2f-9b4e-4901-8b4c-415d04216b52.JPG)
