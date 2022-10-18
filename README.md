@@ -17,6 +17,7 @@
      Explanation- This command is use to list the images available locally
      
     ![dockerimages](https://user-images.githubusercontent.com/29401813/196510156-d5486024-ad68-4690-be46-ca7d3c22805c.JPG)
+![dockerimages](https://user-images.githubusercontent.com/29401813/196510489-e2fcaad4-8be1-4233-b8d3-5b2e17efb2be.JPG)
 
    4. docker run <image-name>
      
