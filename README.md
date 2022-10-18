@@ -28,16 +28,19 @@
    5. docker ps
      
      Explanation- This command is use to list all the running containers
-     
+   ![dockerstart](https://user-images.githubusercontent.com/29401813/196513379-fe742af4-9f18-4e4b-ac7e-2e3fb01e1468.JPG)
+
    6. docker start
      
      Explanation- This command is use to start a container
-    ![dockerstart](https://user-images.githubusercontent.com/29401813/196512800-bf9b62dc-0ee3-4934-8a1a-13653acbdd67.JPG)
+   
+![dockerstart](https://user-images.githubusercontent.com/29401813/196513354-539ac361-9f0b-4521-8923-d01a0423c3d9.JPG)
 
    7. docker stop
      
      Explanation- This command is use to stop a container
-    ![dockerstop](https://user-images.githubusercontent.com/29401813/196512823-a8c19f0f-a878-46bf-a228-9d414d006174.JPG)
+   
+![dockerstop](https://user-images.githubusercontent.com/29401813/196513285-3b6c50d6-c8c0-4824-802c-a9ab2d9ce874.JPG)
 
    8. docker rmi
    
