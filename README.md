@@ -32,11 +32,13 @@
    6. docker start
      
      Explanation- This command is use to start a container
-     
+     ![dockerstart](https://user-images.githubusercontent.com/29401813/196512800-bf9b62dc-0ee3-4934-8a1a-13653acbdd67.JPG)
+
    7. docker stop
      
      Explanation- This command is use to stop a container
-     
+     ![dockerstop](https://user-images.githubusercontent.com/29401813/196512823-a8c19f0f-a878-46bf-a228-9d414d006174.JPG)
+
    8. docker rmi
    
      Explanation- This command is use to delete a docker image
