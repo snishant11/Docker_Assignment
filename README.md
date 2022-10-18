@@ -74,6 +74,6 @@
    
    # task-2 Run Hello World Docker Image Locally.
    
-   
+![secondtask1](https://user-images.githubusercontent.com/29401813/196511311-7dde9a2f-9b4e-4901-8b4c-415d04216b52.JPG)  
 ![secondtask2](https://user-images.githubusercontent.com/29401813/196511303-0d89bd11-938f-4c59-9768-7519a655675e.JPG)
-![secondtask1](https://user-images.githubusercontent.com/29401813/196511311-7dde9a2f-9b4e-4901-8b4c-415d04216b52.JPG)
+
